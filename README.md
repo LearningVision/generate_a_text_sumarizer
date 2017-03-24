@@ -56,3 +56,5 @@ Good (cherry picking) examples of headlines generated
 
 ## Credits
 The credit for this code goes to [udibr](https://github.com/udibr) i've merely created a wrapper to make it easier to get started. 
+
+test with : http://www.dailymail.co.uk/sport/football/article-4338048/Could-Patrick-Vieira-succeed-Arsenal-boss-Arsene-Wenger.html
