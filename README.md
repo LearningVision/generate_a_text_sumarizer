@@ -1,5 +1,5 @@
 # Automatic_text_summarizer_generater_with_DeepLearning
-This is the code for "How to Make a Text Summarizer - Intro to Deep Learning #10" by Siraj Raval on Youtube
+This is the code for "How to Make a Text Summarizer - Intro to Deep Learning
 
 # Coding Challenge - Due Date - Thursday, March 23rd at 12 PM PST
 
