@@ -7,7 +7,9 @@ The challenge for this video is to make a text summarizer for a set of articles 
 
 ## Overview
 
-This is the code for [this](https://youtu.be/ogrJaOIuBx4) video on Youtube by Siraj Raval as part of the Deep Learning Nanodegree with Udacity. We're using an [encoder-decoder](https://www.tensorflow.org/tutorials/seq2seq) architecture to generate a headline from a news article.
+This is the code for Deep Learning and [this video](https://youtu.be/ogrJaOIuBx4) is explainning about fundamental of this project.
+We're using an [encoder-decoder](https://www.tensorflow.org/tutorials/seq2seq) architecture to generate a headline from a news article.
+And the 1M(articles and blogs) is used as as training dataset.
 
 ## Dependencies
 
